@@ -1,26 +1,212 @@
-<h1 align="center">Hi 👋, I'm Ram Grover</h1>
-<h3 align="center">A passionate Software developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramgrover&label=Profile%20views&color=0e75b6&style=flat" alt="ramgrover" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RAM%20GROVER&fontSize=75&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20Cloud%20%7C%20AI%20%7C%20Full-Stack&descSize=18&descAlignY=75&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramgrover" alt="ramgrover" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **Personal projects**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=40&lines=⚡+Production-Ready+Software+Engineer;☁️+AWS+%7C+Docker+%7C+FastAPI+%7C+Kubernetes;🤖+LLMs+%7C+RAG+%7C+ChromaDB+%7C+MCP;🎯+4.0+GPA+%7C+Co-op+Ready+%7C+Toronto%2C+Canada" alt="Typing SVG"/>
 
-- 🌱 I’m currently learning **DSA,GUI,Linux/UNIX**
+<br/><br/>
 
-- 💬 Ask me about **C, C++, JavaScript, HTML/CSS, Nodejs, SQL, Django, TypeScript, Next.js/React.js**
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgrover13@myseneca.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-grover-b3375122a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramgrover)
+[![Profile Views](https://komarev.com/ghpvc/?username=ramgrover&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ramgrover)
 
-- 📫 How to reach me **rgrover13@myseneca.ca**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ram-grover-b3375122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ram-grover-b3375122a" height="30" width="40" /></a>
-</p>
+![Open to Work](https://img.shields.io/badge/%E2%9C%A6%20OPEN%20TO%20CO--OP-7c3aed?style=flat-square)
+![GPA](https://img.shields.io/badge/GPA%204.0%20%2F%204.0-5b21b6?style=flat-square)
+![Toronto](https://img.shields.io/badge/%F0%9F%93%8D%20Toronto%2C%20Canada-4c1d95?style=flat-square)
+![Focus](https://img.shields.io/badge/Backend%20%C2%B7%20Cloud%20%C2%B7%20AI-6d28d9?style=flat-square)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramgrover&show_icons=true&locale=en&layout=compact" alt="ramgrover" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramgrover&show_icons=true&locale=en" alt="ramgrover" /></p>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  ⚡  SYSTEM INITIALIZING...                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  USER        →  RAM GROVER                                       ║
+║  ROLE        →  SOFTWARE ENGINEER  [ CO-OP READY ]               ║
+║  STACK       →  BACKEND  ·  CLOUD  ·  AI  ·  FULL-STACK         ║
+║  LOCATION    →  TORONTO, CANADA                                  ║
+║  GPA         →  4.0 / 4.0                                        ║
+║  UPTIME      →  [████████████████████] 99.9%                     ║
+║  STATUS      →  BUILDING · OPEN TO OPPORTUNITIES                 ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⚡ About
+
+> I don't just write code — I **ship systems.** From AWS-hosted microservices with 99.9% uptime to on-device AI apps powered by local LLMs, everything I build follows one rule: **it has to run in production.**
+
+```diff
++ Scalable backend architect   →  FastAPI · Node.js · distributed systems
++ Cloud-native builder         →  AWS ECS · Cognito · GitHub Actions CI/CD
++ AI application engineer      →  LLMs · RAG · embeddings · ChromaDB · MCP
++ Automation-first mindset     →  if it's manual, it should be scripted
+- Not interested in code that only works on localhost
+```
+
+---
+
+## 🔥 Skill Matrix
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**💻 Languages**
+```
+Python        ████████████████████  95%
+TypeScript    ███████████████████░  90%
+JavaScript    ███████████████████░  90%
+SQL           ██████████████████░░  85%
+C++           ██████████████░░░░░░  70%
+Go            ████████████░░░░░░░░  60%
+```
+
+**☁️ Cloud & DevOps**
+```
+AWS (ECS / Cognito / S3)  ███████████████████░  90%
+Docker                    ██████████████████░░  85%
+CI/CD · GitHub Actions    ██████████████████░░  85%
+Kubernetes                ██████████████░░░░░░  70%
+```
+
+</td>
+<td valign="top" width="50%">
+
+**🧠 Backend & AI**
+```
+FastAPI / REST API   ████████████████████  90%
+Node.js              ███████████████████░  90%
+LLMs / RAG / MCP     ████████████████░░░░  85%
+System Design        ████████████████░░░░  85%
+```
+
+**🎨 Frontend**
+```
+React / Next.js   ███████████████████░  90%
+Tailwind CSS      ██████████████████░░  85%
+TypeScript UI     ██████████████████░░  85%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Impact Metrics
+
+<div align="center">
+
+| Metric | Result |
+|:---|:---|
+| ☁️ AWS ECS REST API Uptime | **99.9%** sustained in production |
+| ⚡ API Latency Optimization | **50% reduction** via query + caching improvements |
+| 🚀 CI/CD Pipeline | **80% fewer** manual deployment errors |
+| 📋 IT Onboarding Docs | **30% faster** employee onboarding time |
+| 🧪 Cypress E2E Suite | Eliminated manual regression testing cycles |
+
+</div>
+
+---
+
+## 🧭 Engineering Journey
+
+```
+ 2024                        2025                        2026
+  │                           │                           │
+  ▼                           ▼                           ▼
+┌─────────────────┐   ┌─────────────────┐   ┌──────────────────────┐
+│  Univ. Toronto  │   │    Seneca        │   │  CAAT Pension Plan   │
+│   Cloud R&D     │   │  Polytechnic    │   │  Software Engineer   │
+│─────────────────│   │─────────────────│   │──────────────────────│
+│ AWS · Docker    │   │ IT Systems      │   │ Cypress automation   │
+│ REST API 99.9%  │   │ Technologist    │   │ QA pipeline infra    │
+│ Cognito + RBAC  │   │ 30% ↑ onboard   │   │ Agile release cycles │
+│ 50% ↓ latency   │   │ Enterprise IT   │   │ Regression suites    │
+└─────────────────┘   └─────────────────┘   └──────────────────────┘
+```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | What it does |
+|:--------|:------|:-------------|
+| 🧠 **[IntelliFold — AI File Organizer](https://github.com/ramgrover)** | `Tauri` `Rust` `React` `FastAPI` `ChromaDB` | Local-first AI organizes files via vector embeddings + on-device Phi-3 LLM |
+| 📚 **[AI Study Mentor](https://github.com/ramgrover)** | `Next.js` `Gemini API` `MongoDB` `Vercel` | Any topic → quizzes, flashcards, concept maps, and adaptive study flows |
+| 🧾 **[EchoDB — NL→SQL Engine](https://github.com/ramgrover)** | `FastAPI` `MCP` `PostgreSQL` `SQLAlchemy` | Chat with any database in plain English — MCP-powered translation engine |
+| 🧑‍💼 **[Capstone PM Platform](https://github.com/ramgrover)** | `Next.js` `Hono.js` `Appwrite` `Tailwind` | Full Agile PM — RBAC, sprint boards, burndown analytics, dashboards |
+| 💈 **[V8 Barber Website](https://github.com/ramgrover)** | `React` `JavaScript` `CSS` | Production website for a real-world client — live and deployed |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramgrover&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramgrover&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramgrover&theme=tokyonight&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8" height="175"/>
+
+</div>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramgrover&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed" width="100%"/>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ramgrover&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email%20Me-rgrover13%40myseneca.ca-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgrover13@myseneca.ca)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-grover-b3375122a)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ramgrover-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramgrover)
+
+<br/><br/>
+
+```
+  If it can be automated  —  I've scripted it.
+  If it needs to scale    —  I've architected it.
+  If it ships to prod     —  I've deployed it.
+```
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%"/>
